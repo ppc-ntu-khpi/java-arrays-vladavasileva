@@ -5,15 +5,15 @@
 
 Спершу я створила масив, де максимальне число може бути 100, а також інші змінні. 
 
-![]() 
+![](https://github.com/ppc-ntu-khpi/java-arrays-vladavasileva/blob/master/1.PNG) 
 
 Потім за допомогою циклу порахувала кількість елементів за допомогою циклу. 
 
-![]() 
+![](https://github.com/ppc-ntu-khpi/java-arrays-vladavasileva/blob/master/2.PNG) 
 
 А потім за допомогою іншого масиву вирахувала яке число повторюється найчастіше. 
 
-![]() 
+![](https://github.com/ppc-ntu-khpi/java-arrays-vladavasileva/blob/master/3.PNG) 
 
 Проведемо невеличке тестування, щоб впевнетись, що програма працює коректно. 
 
@@ -23,5 +23,5 @@
 
 Що вивела програма? 
 
-![]() 
+![](https://github.com/ppc-ntu-khpi/java-arrays-vladavasileva/blob/master/4.PNG) 
 
