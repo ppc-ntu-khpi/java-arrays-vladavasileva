@@ -2,22 +2,20 @@ package test;
 
 import domain.Exercise;
 /**
- * Клас, де виводиться результат 
- * @author Влада
+ * РљР»Р°СЃ, Р·Р° РґРѕРїРѕРјРѕРіРѕСЋ СЏРєРѕРіРѕ РјРё РІРёРІРѕРґРёРјРѕ СЂРµР·СѓР»СЊС‚Р°С‚ 
+ * @author Р’Р»Р°РґР°
  */
 public class TestResult {
 
     public static void main(String[] args) {
            /**
-            * Оголошення масиву та інших змінних
+            * РѕРіРѕР»РѕРјРµРЅРЅСЏ РјР°СЃРёРІСѓ
             */
         int arr[]={7,0,0,1,4,0,7,2};
         int max_element = 8;
         int max_repeated = Integer.MIN_VALUE;
         int max_count = -1;
-        /**
-         * Вивід результату на екран 
-         */
-        System.out.println( "Число, яке зустрічається в масиві найбільшу кількість разів: " + Exercise.Calculate (arr, max_element,max_repeated, max_count));  
+        //output the most repeated element along with the count
+        System.out.println( "Р§РёСЃР»Рѕ, СЏРєРµ РїРѕРІС‚РѕСЂСЋС”С‚СЊСЃСЏ РЅР°Р№Р±С–Р»СЊС€Сѓ РєС–Р»СЊРєС–СЃС‚СЊ СЂР°Р·С–РІ: " + Exercise.Calculate (arr, max_element,max_repeated, max_count));  
     }
 }
