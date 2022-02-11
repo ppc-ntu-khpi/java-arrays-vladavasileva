@@ -19,9 +19,33 @@
 
 Запишемо такі числа у масив : **1, 5, 7, 10, 14, 1, 0, 17, 0, 1**
 
-Найчастіше повторюється число 1. 
+![](https://github.com/ppc-ntu-khpi/java-arrays-vladavasileva/blob/master/5.PNG)
+
+Найчастіше повторюється число **1**. 
 
 Що вивела програма? 
 
 ![](https://github.com/ppc-ntu-khpi/java-arrays-vladavasileva/blob/master/4.PNG) 
+
+Так результат **вірний**. Тепер давайте спробуємо с більшими числами.
+
+Наприклад **27, 99, 100, 11, 17, 22, 14, 99, 17, 22, 45, 55, 99**
+
+![](https://github.com/ppc-ntu-khpi/java-arrays-vladavasileva/blob/master/6.PNG)
+
+Найчастіше повторюється число **99**.
+
+Що вивела програма? 
+
+![](https://github.com/ppc-ntu-khpi/java-arrays-vladavasileva/blob/master/7.PNG)
+
+Так результат **вірний**. Тепер давайте спробуємо ввести числа більші за 100. Наприкалад **101, 200, 101, 402, 555**
+
+![](https://github.com/ppc-ntu-khpi/java-arrays-vladavasileva/blob/master/8.PNG)
+
+Що виведе програма? Звичайно помилку. 
+
+![](https://github.com/ppc-ntu-khpi/java-arrays-vladavasileva/blob/master/9.PNG)
+
+
 
