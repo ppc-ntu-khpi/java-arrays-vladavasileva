@@ -7,11 +7,11 @@
 
 ![](https://github.com/ppc-ntu-khpi/java-arrays-vladavasileva/blob/master/1.PNG) 
 
-Потім за допомогою циклу порахувала кількість елементів за допомогою циклу. 
+Потім за допомогою циклу порахувала кількість елементів у масиві. 
 
 ![](https://github.com/ppc-ntu-khpi/java-arrays-vladavasileva/blob/master/2.PNG) 
 
-А потім за допомогою іншого масиву вирахувала яке число повторюється найчастіше. 
+А потім за допомогою іншого циклу вирахувала яке число повторюється найчастіше. 
 
 ![](https://github.com/ppc-ntu-khpi/java-arrays-vladavasileva/blob/master/3.PNG) 
 
@@ -47,5 +47,10 @@
 
 ![](https://github.com/ppc-ntu-khpi/java-arrays-vladavasileva/blob/master/9.PNG)
 
+Щоб уникнути цієї помилки потрібно просто збільшити максимальне число.  І все працює.
+
+![](https://github.com/ppc-ntu-khpi/java-arrays-vladavasileva/blob/master/10.PNG)
+
+![](https://github.com/ppc-ntu-khpi/java-arrays-vladavasileva/blob/master/11.PNG)
 
 
